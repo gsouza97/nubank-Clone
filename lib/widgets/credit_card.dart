@@ -43,14 +43,14 @@ class CreditCard extends StatelessWidget {
                 text: 'Limite disponível ',
                 style: TextStyle(
                   color: Color(0xff272727),
-                  fontSize: 16,
+                  fontSize: 14,
                 ),
                 children: [
                   TextSpan(
                     text: ' R\$ 3.583,15',
                     style: TextStyle(
                         color: Color(0xff1e7f44),
-                        fontSize: 16,
+                        fontSize: 14,
                         fontWeight: FontWeight.bold),
                   )
                 ],
