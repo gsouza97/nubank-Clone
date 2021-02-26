@@ -7,7 +7,7 @@ class Transfer extends StatelessWidget {
     return Card(
       color: Theme.of(context).accentColor,
       child: Padding(
-        padding: const EdgeInsets.fromLTRB(8, 8, 40, 8),
+        padding: const EdgeInsets.fromLTRB(8, 8, 35, 8),
         child: Column(
           mainAxisAlignment: MainAxisAlignment.spaceBetween,
           crossAxisAlignment: CrossAxisAlignment.start,
