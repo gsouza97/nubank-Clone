@@ -18,6 +18,7 @@ class CreditCard extends StatelessWidget {
                 Icon(
                   Icons.credit_card_outlined,
                   color: Colors.black54,
+                  size: 18,
                 ),
                 SizedBox(width: 14),
                 Text(
@@ -36,7 +37,7 @@ class CreditCard extends StatelessWidget {
               'R\$ 339,87',
               style: Theme.of(context).textTheme.body1,
             ),
-            SizedBox(height: 7),
+            SizedBox(height: 6),
             RichText(
               text: TextSpan(
                 text: 'Limite disponível ',

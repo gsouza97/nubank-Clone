@@ -22,24 +22,28 @@ class MyApp extends StatelessWidget {
         visualDensity: VisualDensity.adaptivePlatformDensity,
         textTheme: TextTheme(
           title: TextStyle(
-            fontSize: 18,
+            fontSize: 16,
             fontWeight: FontWeight.w600,
             color: Color(0xff707070),
           ),
           subtitle: TextStyle(
-            fontSize: 16,
+            fontSize: 14,
             fontWeight: FontWeight.w400,
             color: Color(0xff707070),
           ),
           body1: TextStyle(
-            fontSize: 26,
+            fontSize: 24,
             fontWeight: FontWeight.bold,
             color: Color(0xff25a0dd),
           ),
           body2: TextStyle(
-            fontSize: 26,
+            fontSize: 24,
             fontWeight: FontWeight.bold,
             color: Colors.black,
+          ),
+          subhead: TextStyle(
+            fontSize: 10,
+            color: Colors.white,
           ),
         ),
       ),

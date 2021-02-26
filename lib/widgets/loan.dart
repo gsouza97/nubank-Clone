@@ -1,3 +1,4 @@
+import 'package:flat_icons_flutter/flat_icons_flutter.dart';
 import 'package:flutter/material.dart';
 
 class Loan extends StatelessWidget {
@@ -15,9 +16,10 @@ class Loan extends StatelessWidget {
           children: [
             Row(
               children: [
-                Icon(
-                  Icons.clean_hands_outlined,
+                ImageIcon(
+                  AssetImage('assets/icons/personal.png'),
                   color: Colors.black54,
+                  size: 20,
                 ),
                 SizedBox(width: 14),
                 Text(

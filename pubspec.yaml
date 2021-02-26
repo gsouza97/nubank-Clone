@@ -24,6 +24,7 @@ dependencies:
   flutter:
     sdk: flutter
   splash_screen_view: ^1.0.3
+  flat_icons_flutter: ^1.0.2
 
 
   # The following adds the Cupertino Icons font to your application.
@@ -50,6 +51,11 @@ flutter:
     - assets/images/Nubank_Logo.png
     - assets/images/Nubank_Logo@2x.png
     - assets/images/Nubank_Logo@3x.png
+    - assets/icons/personal.png
+    - assets/icons/coin.png
+    - assets/icons/barcode.png
+    - assets/icons/up-arrow.png
+    - assets/icons/down-arrow.png
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see

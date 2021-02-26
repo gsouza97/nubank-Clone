@@ -15,9 +15,10 @@ class AccountInfo extends StatelessWidget {
           children: [
             Row(
               children: [
-                Icon(
-                  Icons.monetization_on_outlined,
+                ImageIcon(
+                  AssetImage('assets/icons/coin.png'),
                   color: Colors.black54,
+                  size: 18,
                 ),
                 SizedBox(width: 14),
                 Text(
