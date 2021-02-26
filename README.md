@@ -10,4 +10,4 @@ Missing: Correct icons, correct fonts, bottom cards, etc.
 
 ## Screenshots
 
-<img src="screenshots/Screenshot_1.png" width=230/> <img src="screenshots/Screenshot_2.png" width=230/>
+<img src="screenshots/Screenshot_1.png" width=230/> <img src="screenshots\Screenshot_2.png" width=230/>
